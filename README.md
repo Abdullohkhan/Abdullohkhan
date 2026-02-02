@@ -15,12 +15,6 @@
 
   <!-- GitHub followers (live) -->
   <img alt="Followers" src="https://img.shields.io/github/followers/Abdullohkhan?label=Followers&style=social" />
-
-  <!-- GitHub readme stats (live) -->
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Abdullohkhan&show_icons=true&theme=default&count_private=true" />
-
-  <!-- Top languages (live) -->
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullohkhan&layout=compact&theme=default" />
 </p>
 
 ---
