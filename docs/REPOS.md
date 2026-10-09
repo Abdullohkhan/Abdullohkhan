@@ -3,10 +3,11 @@
 Tekshirilgan sana: 2026-10-09. Har bir repo klon qilinib, ichi ochib ko'rildi:
 README, package.json, `src/` tarkibi, commitlar tarixi, branchlar.
 
-Jami: **26 repo** (hammasi public, private repo topilmadi).
-- 6 tasi **bo'sh** (birorta ham commit yo'q)
+Jami: **30 repo** — 26 public + 4 private.
+- 7 tasi **bo'sh** (birorta ham commit yo'q)
 - 3 tasi **fork** (ichida sizning commitingiz yo'q)
 - 2 tasi **archived**
+- 1 tasi — shu profil repo (`Abdullohkhan`), hub hujjatlari shu yerda
 
 > ⚠️ Asosiy akkaunt (Abdulmajidkhan007) hali tekshirilmadi — bu sessiyada
 > unga kirish yo'q. "U yerda bormi?" ustuni keyingi qadamda to'ldiriladi.
@@ -41,6 +42,10 @@ Ko'chirishda bu fayllar tarix bilan birga ketmasligi kerak (pastga qarang).
 | portfolio-demo-2 | ✅ Tugagan | **Ko'chirish** |
 | portfolio | ✅ Tugagan | Ko'chirish (yoki demo-2 bilan bitta) |
 | memory-game | 🟡 Kichik, ishlaydi | Ixtiyoriy |
+| 🔒 Atoyo | 🟡 Next.js do'kon, chala | Kerak emas (atoyo-new bor) |
+| 🔒 desktop-tutorial | 🟡 Next.js dashboard + JWT reja | Ixtiyoriy |
+| 🔒 nextjs | ⚪ Faqat shablon | Kerak emas |
+| 🔒 tgbot | ⬜ Bo'sh | O'chirish |
 | erp-system | ⚪ Faqat shablon | Kerak emas |
 | atoyo-demo | ⚪ Faqat shablon | Kerak emas |
 | portfolio-1 | 🔁 `portfolio` ning eski nusxasi | Kerak emas |
@@ -60,9 +65,10 @@ Ko'chirishda bu fayllar tarix bilan birga ketmasligi kerak (pastga qarang).
 | DNS-over-Discord | 🍴 Fork | Kerak emas |
 | realtime-chat-supabase-react | 🍴 Fork | Kerak emas |
 | jack-portfolio | 🍴 Fork | Kerak emas |
+| Abdullohkhan | 📄 Profil README + hub hujjatlari | Hujjatlar oxirida ko'chiriladi |
 
 Belgilar: ✅ tugagan · 🟡 chala · ⚪ boshlanmagan · 🔁 dublikat ·
-📚 o'quv mashqi · ⬜ bo'sh · 🍴 fork · ⚠️ muammo bor
+📚 o'quv mashqi · ⬜ bo'sh · 🍴 fork · ⚠️ muammo bor · 🔒 private
 
 ---
 
@@ -131,6 +137,33 @@ Belgilar: ✅ tugagan · 🟡 chala · ⚪ boshlanmagan · 🔁 dublikat ·
 - **Commitlar:** 2 ta, 2026-03-15.
 - **Taklif:** Ixtiyoriy — kichik, lekin ishlaydigan.
 
+### 🔒 Atoyo (private) — Atoyo'ning Next.js versiyasi
+- **Nima:** Next.js (App Router) do'kon: home, shop + mahsulot sahifasi,
+  login, dashboard, about, contact; Redux (auth, products, user);
+  `api/upload` (Vercel Blob) — butunlay izohga olingan.
+- **Commitlar:** 5 ta, 2026-02-28 → 2026-03-12. Oxirgisi: "edited".
+- **Chala joylar:** README — standart create-next-app; upload ishlamaydi.
+- **Taklif:** Kerak emas — atoyo-new (Vite) undan ancha to'liq. Faqat
+  agar Atoyo'ni Next.js'da davom ettirish rejasi bo'lsa saqlanadi (Q5).
+
+### 🔒 desktop-tutorial (private) — Next.js dashboard + auth mashqi
+- **Nima:** Nomi aldaydi. `master` da Next.js dashboard (Sidebar, Navbar,
+  StatsGrid, OverviewPanels — 9 komponent), `bcryptjs` + `jsonwebtoken`
+  o'rnatilgan. `guide.txt` — register/login API va JWT middleware
+  rejasi (hali yozilmagan). `me.md` — GitHub profil README qoralamasi
+  ("Hi, I'm Abdulmajid", abdulmajid-sharipov.vercel.app). `branch2` —
+  GitHub Desktop'ning asl tutorial commiti (2025-02-02).
+- **Commitlar:** 2026-03-21 → 2026-03-23. Oxirgisi: "newuploaded".
+- **Taklif:** Ixtiyoriy (Q5). `me.md` dagi stats rasmlari boshqa
+  odamning (`abdujalil-nizomiddinov`) username'iga ulangan — ko'chirsa
+  tuzatish kerak.
+
+### 🔒 nextjs (private)
+- create-next-app shabloni, 1 commit (2026-02-02). Taklif: kerak emas.
+
+### 🔒 tgbot (private)
+- Bo'sh, commit yo'q (2026-03-09 ochilgan). Taklif: o'chirish.
+
 ### ⚪ erp-system
 - **Nima:** `master` — Vite shabloni (`App.tsx` 5 qator). `mobile`
   branch — Expo (React Native) shabloni. Firebase o'rnatilgan, kod yo'q.
@@ -163,7 +196,7 @@ Taklif: agar asosiy akkauntda o'quv ishlar arxivi kerak bo'lsa —
 
 ### ⬜ Bo'sh repolar
 `AbdulmajidSharipov`, `Atoyo-erp`, `Atoyo-pro`, `BIOSWT` (archived),
-`chat`, `portfolio-builder` — hech qanday commit yo'q. Ko'chiradigan narsa
+`chat`, `portfolio-builder`, `tgbot` (private) — hech qanday commit yo'q. Ko'chiradigan narsa
 yo'q, akkaunt bilan birga o'chadi.
 
 ### 🍴 Forklar
@@ -182,10 +215,12 @@ commitingiz yo'q. Kerak bo'lsa, asosiy akkauntdan qayta fork qilinadi.
 - **Q3.** memory-game ko'chirilsinmi?
 - **Q4.** Abdulmajidkhan007 dagi repolar ro'yxatini bering (yoki o'sha
   akkauntni sessiyaga ulang) — dublikatlarni solishtirish uchun.
+- **Q5.** Private repolardan `Atoyo` (Next.js) yoki `desktop-tutorial`
+  (dashboard + JWT) ko'chirilsinmi?
 
 ## Keyingi qadamlar
 
 1. Telegram token va SMTP parolini almashtirish (siz, telefondan).
-2. Q1–Q4 javoblari → `docs/DECISIONS.md`.
+2. Q1–Q5 javoblari → `docs/DECISIONS.md`.
 3. Ko'chirish ro'yxati tasdiqlangach — har loyiha uchun alohida sessiya
    prompti (`docs/prompts/`).
