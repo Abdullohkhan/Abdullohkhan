@@ -1,7 +1,7 @@
 # <p align="center">Hi, I'm Abdullohkhan 👋</p>
 
 <p align="center">
-  <strong>Frontend Web Developer - React </strong>
+  <strong>Software Engineer</strong>
 </p>
 
 <!-- <p align="center">
@@ -30,6 +30,6 @@
 - Working on: Project / Open-source / Learning (replace with your current focus)
 
 ## 📫 Contact
-- Email: abdullohdevlc@gmail.com  
+- Email: abdullohdevc@gmail.com  
 - Telegram: [@Abdulloh_77700](https://t.me/Abdulloh_77700)  
 - LinkedIn: [Abdulloh-Sharipov](https://www.linkedin.com/in/abdulloh-sharipov)
