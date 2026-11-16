@@ -1,7 +1,7 @@
-# <p align="center">Hi, I'm Abdullohkhan 👋</p>
+# <p align="center">Hi, I'm Abdulmajid Sharipov 👋</p>
 
 <p align="center">
-  <strong>Software Engineer</strong>
+  <strong>Frontend Developer</strong>
 </p>
 
 <p align="center">
@@ -27,10 +27,10 @@
 ---
 
 ## 🔭 Currently
-- Working on: Project / Open-source / Learning (replace with your current focus)
+- Working on: Savdo CRM (warehouse, sales and cash system) and the A.L.I.A. learning center platform
 
 ## 📫 Contact
 - Email: abdulmajidsharipovish@gmail.com  
 - Telegram: [@abdulmajid_sharipov](https://t.me/abdulmajid_sharipov)  
 - NafiSoft: [@NafiSoftUz](https://t.me/NafiSoftUz)  
-- LinkedIn: [Abdulloh-Sharipov](https://www.linkedin.com/in/abdulloh-sharipov)
+- LinkedIn: [Abdulmajid Sharipov](https://www.linkedin.com/in/abdulmajid-sharipov-profile)
