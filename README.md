@@ -1,13 +1,13 @@
-# <p align="center">Hi, I'm Abdullohkhan 👋</p>
+# <p align="center">Hi, I'm Abdulmajid Sharipov 👋</p>
 
 <p align="center">
-  <strong>Software Engineer</strong>
+  <strong>Frontend Developer</strong>
 </p>
 
-<!-- <p align="center">
-  🌐 I build modern, high-performance web applications.  
-  🔗 Portfolio: <a href="https://your-portfolio.example">your-portfolio.example</a>
-</p> -->
+<p align="center">
+  🔗 Portfolio: <a href="https://abdulmajidkhan-portfolio.web.app/">abdulmajidkhan-portfolio.web.app</a><br />
+  🛠 NafiSoft (services): <a href="https://abdulmajidkhan007.github.io/Abdulmajidkhan007">abdulmajidkhan007.github.io/Abdulmajidkhan007</a>
+</p>
 
 <p align="center">
   <!-- Automatic profile views badge (updates automatically) -->
@@ -27,9 +27,10 @@
 ---
 
 ## 🔭 Currently
-- Working on: Project / Open-source / Learning (replace with your current focus)
+- Working on: Savdo CRM (warehouse, sales and cash system) and the A.L.I.A. learning center platform
 
 ## 📫 Contact
-- Email: abdullohdevc@gmail.com  
-- Telegram: [@Abdulloh_77700](https://t.me/Abdulloh_77700)  
-- LinkedIn: [Abdulloh-Sharipov](https://www.linkedin.com/in/abdulloh-sharipov)
+- Email: abdulmajidsharipovish@gmail.com  
+- Telegram: [@abdulmajid_sharipov](https://t.me/abdulmajid_sharipov)  
+- NafiSoft: [@NafiSoftUz](https://t.me/NafiSoftUz)  
+- LinkedIn: [Abdulmajid Sharipov](https://www.linkedin.com/in/abdulmajid-sharipov-profile)
